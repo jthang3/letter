@@ -7,5 +7,18 @@
 
 .spacing {
     display: flex;
-    justify-content: space-evenly
+    justify-content: center;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#c {
+    margin-right: 30px;
+}
+
+#fl {
+    transform: translateX(-100px);
 }
