@@ -1,0 +1,11 @@
+.main-body {
+    background-color: blueviolet;
+    color: silver;
+    font-size: 600px;
+    font-family: 'Lobster Two', cursive;
+}
+
+.spacing {
+    display: flex;
+    justify-content: space-evenly
+}
